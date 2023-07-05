@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edfranceschini
 - 👀 I’m interested in Python, C#, Django, Flask, GraphQL, and engineering 
-- 🌱 I’m currently learning Advanced data strucures
+- 🌱 I’m currently learning NextJS
 - 📫 How to reach me at edson.franceschini@gmail.com or +55 11 9.7722-8882
 
 <!---
